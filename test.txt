@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3AE8-EBC8
+
+ Directory of C:\Users\Manoj\Desktop\MyGit1stProject
+
+03-02-2026  12:37    <DIR>          .
+03-02-2026  12:36    <DIR>          ..
+03-02-2026  12:37                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  51,363,336,192 bytes free
